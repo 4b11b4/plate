@@ -1,0 +1,5 @@
+source "https://rubygems.org"
+
+# gems
+gem 'rails'
+gem 'hotwire-rails'
